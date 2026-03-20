@@ -18040,7 +18040,7 @@ const ac = (i) =>
 function J0() {
   const [, i] = Ax(),
     r = () => {
-      i("/");
+      i("/poempromo/");
     };
   return G.jsx("div", {
     "data-loc": "client/src/pages/NotFound.tsx:14",
@@ -19651,12 +19651,12 @@ function Vx() {
     children: [
       G.jsx(Ks, {
         "data-loc": "client/src/App.tsx:13",
-        path: "/",
+        path: "/poempromo/",
         component: kx,
       }),
       G.jsx(Ks, {
         "data-loc": "client/src/App.tsx:14",
-        path: "/404",
+        path: "/poempromo/404",
         component: J0,
       }),
       G.jsx(Ks, { "data-loc": "client/src/App.tsx:16", component: J0 }),
