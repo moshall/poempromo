@@ -19651,8 +19651,28 @@ function Vx() {
     children: [
       G.jsx(Ks, {
         "data-loc": "client/src/App.tsx:13",
+        path: "/",
+        component: kx,
+      }),
+      G.jsx(Ks, {
+        "data-loc": "client/src/App.tsx:13",
+        path: "/poempromo",
+        component: kx,
+      }),
+      G.jsx(Ks, {
+        "data-loc": "client/src/App.tsx:13",
         path: "/poempromo/",
         component: kx,
+      }),
+      G.jsx(Ks, {
+        "data-loc": "client/src/App.tsx:13",
+        path: "/poempromo/index.html",
+        component: kx,
+      }),
+      G.jsx(Ks, {
+        "data-loc": "client/src/App.tsx:14",
+        path: "/404",
+        component: J0,
       }),
       G.jsx(Ks, {
         "data-loc": "client/src/App.tsx:14",
